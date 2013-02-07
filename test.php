@@ -2,6 +2,12 @@
 
 phpinfo();
 
+function test004(){
+	echo 'This is branch b2';
+	echo 'This is branch b2';
+	echo 'This is branch b2';
+}
+
 function test(){
   echo "hello world";
 }
