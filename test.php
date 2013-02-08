@@ -1,6 +1,5 @@
 <?php 
 
-phpinfo();
 
 function test004(){
 	echo 'This is branch b2';
@@ -18,6 +17,9 @@ function test003(){
 	echo 'This is Branch 2';
 	echo 'This is Branch 3';
 }
+
+
+test();
 
 
 ?>
